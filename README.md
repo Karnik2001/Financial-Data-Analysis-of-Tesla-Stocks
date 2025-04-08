@@ -21,4 +21,6 @@ https://medium.com/@pelinokutan/python-for-risk-analysis-a-comprehensive-guide-d
 
 https://medium.com/@deepml1818/predicting-stock-prices-with-machine-learning-in-python-a-step-by-step-guide-c53f36ab1ccd
 
+https://builtin.com/data-science/portfolio-optimization-python
+
 https://www.codingfinance.com/post/2018-04-03-calc-returns-py/
